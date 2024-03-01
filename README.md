@@ -2,6 +2,9 @@
 
 HTML (Hypertext Markup Language) adalah bahasa markup standar yang digunakan untuk membuat dan merancang halaman web. Ini adalah bahasa dasar yang digunakan untuk menentukan struktur konten dan tata letak sebuah halaman web. Dengan HTML, Kita dapat menentukan teks, gambar, hyperlink, tabel, formulir, audio, video, dan elemen-elemen lainnya yang membentuk konten halaman web. HTML bekerja dengan menggunakan serangkaian elemen dan tag, yang memberi petunjuk kepada browser tentang bagaimana halaman web harus ditampilkan kepada pengguna.
 
+## Screenshot
+![Tutorial 01 - HTML (Hasil)](https://github.com/dapraws/Tutorial-PlatformBasedApplications/assets/122019775/129f569f-6674-4ebb-9838-8ec82bb1d070)
+
 ## Analisis
 - Elemen: Elemen HTML adalah bagian dasar dari halaman web, seperti teks, gambar, dan formulir. Contoh: <p> untuk paragraf, <img> untuk gambar, dan <form> untuk formulir.
 - Tabel: Elemen <table> digunakan untuk menampilkan data dalam format tabel, dengan <tr> untuk baris, <td> untuk sel data, dan <th> untuk sel header.
