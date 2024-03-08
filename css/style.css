@@ -1,0 +1,129 @@
+/* Font Properties */
+.font-1,
+.font-2,
+.font-3,
+.font-4,
+.font-5,
+.font-6,
+.font-7,
+.font-8,
+.font-9,
+.font-10,
+.font-11,
+.font-12 {
+  display: inline-block;
+  margin-right: 20px;
+}
+.font-1 {
+  font-family: Arial, sans-serif;
+}
+.font-2 {
+  font-family: Helvetica, sans-serif;
+}
+.font-3 {
+  font-family: "Times New Roman", serif;
+}
+.font-4 {
+  font-family: "Courier New", monospace;
+}
+.font-5 {
+  font-size: 32px;
+}
+.font-6 {
+  font-size: 24px;
+}
+.font-7 {
+  font-size: 18px;
+}
+.font-8 {
+  font-style: normal;
+}
+.font-9 {
+  font-style: italic;
+}
+.font-10 {
+  font-style: oblique;
+}
+.font-11 {
+  font-weight: normal;
+}
+.font-12 {
+  font-weight: bold;
+}
+
+/* List Properties */
+.box-listproperties {
+  display: flex; /* Use Flexbox */
+  flex-direction: row; /* Set flex direction to row */
+  
+}
+.list-disc,
+.list-circle,
+.list-square {
+  display: inline-block;
+  vertical-align: top;
+  /* margin: 20px; */
+}
+.list-disc {
+  list-style-type: disc;
+}
+.list-circle {
+  list-style-type: circle;
+}
+.list-square {
+  list-style-type: square;
+}
+
+/* Alignment */
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
+.align-right {
+  text-align: right;
+}
+
+/* Colors */
+.box-colors {
+  display: flex;
+  /* align-items: center; */
+}
+
+.box-colors > div {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.box-red {
+  background-color: red;
+}
+
+.box-green {
+  background-color: green;
+}
+
+.box-blue {
+  background-color: blue;
+}
+.text-red {
+  color: red;
+}
+.text-green {
+  color: green;
+}
+.text-blue {
+  color: blue;
+}
+
+/* Span & Div */
+.box {
+  border: 5px solid #ccc;
+  padding: 5px;
+  margin: 20px;
+}
+.highlight {
+  background-color: yellow;
+}
