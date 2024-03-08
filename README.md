@@ -3,6 +3,7 @@
 Bootstrap adalah framework front-end yang populer untuk pengembangan web responsif dan mobile-first. Diciptakan oleh tim pengembang di Twitter, Bootstrap menyediakan seperangkat alat dan komponen yang memudahkan pembangunan situs web yang menarik dan konsisten secara visual di berbagai perangkat dan ukuran layar. Dengan Bootstrap, pengembang web dapat dengan mudah membuat halaman web yang responsif dan estetis tanpa harus menulis CSS kustom dari awal. Bootstrap menyediakan komponen siap pakai seperti grid system, tombol, formulir, navigasi, kartu, dan masih banyak lagi
 
 ## Screenshot
+<img width="271" alt="image" src="https://github.com/dapraws/Tutorial-PlatformBasedApplications/assets/122019775/510e56cb-557f-4c02-9791-99359aea7169">
 
 ## Analisis
 
