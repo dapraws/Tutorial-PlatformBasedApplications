@@ -3,7 +3,7 @@
 CSS (Cascading Style Sheets) adalah bahasa gaya yang memungkinkan pengguna untuk mengontrol tampilan dan tata letak elemen-elemen dalam halaman web. Dengan CSS, kita dapat menentukan warna, ukuran, jenis font, jarak, dan properti stilistik lainnya untuk memperindah dan memperbaiki tampilan halaman web. Ini memisahkan struktur konten HTML dari presentasi visualnya, memungkinkan kita untuk menciptakan halaman web yang menarik secara visual dan mudah dinavigasi bagi pengguna.
 
 ## Screenshot
-<img width="468" alt="image" src="https://github.com/dapraws/Tutorial-PlatformBasedApplications/assets/122019775/1f5f96aa-b805-42af-9494-2c81674e53f1">
+<img width="700" alt="image" src="https://github.com/dapraws/Tutorial-PlatformBasedApplications/assets/122019775/1f5f96aa-b805-42af-9494-2c81674e53f1">
 
 ## Analisis
 
