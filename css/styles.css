@@ -1,0 +1,23 @@
+.container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .box {
+    width: auto;
+    height: 200px;
+    background-color: pink;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 200px;
+  }
+  .button-container {
+    margin-bottom: 20px;
+  }
+  .button-container button {
+    margin-right: 10px;
+  }
+  .wrapper {
+    background-color: yellow;
+  }
